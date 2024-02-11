@@ -1,0 +1,20 @@
+.nav-custom:hover {
+    color: #A77B51;
+}
+
+.nav-custom-active {
+    color: #A77B51 !important;
+}
+
+.news-top {
+    display: block;
+    margin-bottom: 50px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.news-top:hover {
+    color: #CA8064;
+}
+
